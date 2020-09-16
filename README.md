@@ -11,9 +11,16 @@ Step 2 − divide the list recursively into two halves until it can no more be d
 Step 3 − merge the smaller lists into new list in sorted order.
 
 
+# Merge Sort Complexity
+## Time Complexity
+### Best Case Complexity: O(n*log n)
 
+### Worst Case Complexity: O(n*log n)
 
+### Average Case Complexity: O(n*log n)
 
+# Space Complexity
+The space complexity of merge sort is O(n).
 
 # REFERENCE
 ## 1.My code school(merge sort):- 
