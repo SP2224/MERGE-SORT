@@ -28,8 +28,8 @@ The space complexity for quicksort is O(log n).
 # Quicksort Applications
 Quicksort is implemented when:-
 
-The programming language is good for recursion
-Time complexity matters
+The programming language is good for recursion,
+Time complexity matters,
 Space complexity matters
 
 
