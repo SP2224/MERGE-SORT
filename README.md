@@ -25,6 +25,14 @@ It occurs when the above conditions do not occur.
 
 The space complexity for quicksort is O(log n).
 
+# Quicksort Applications
+Quicksort is implemented when:-
+
+The programming language is good for recursion
+Time complexity matters
+Space complexity matters
+
+
 # REFERENCE
 ## 1.My code school(merge sort):- 
 
